@@ -49,7 +49,6 @@ all data types are quantitative. There are 26 column and 400 rows in this excel 
 *	Average cost per user
 *	Average annual beneficiary cost share
 *	Claim account
-*	Beneficiary cost share LIS ….
 
 ### License:
 [License Info](https://www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html)
