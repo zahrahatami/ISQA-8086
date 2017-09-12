@@ -12,3 +12,8 @@
 ### All Data Sets:
 * confusing data entry: there is different color for the data which make reader to be confused.
 * The data did not show which data set is reffering to night and which one reffering to morning collection.
+# System Sugestion:
+
+| Date | Time | Depth(m) | Tempeture(`C) | Species |  #/Ldensity per ml | Colony Diameter(ml) | #/L | ColonySize(mm) | Chlorophyll a |
+|------|------|----------|---------------|---------|----------------|---------------------|-----|----------------|---------------|
+|      |      |          |               |         |                |                     |     |                |               |
