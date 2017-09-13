@@ -5,6 +5,7 @@
 * Missing Data
 * confusing data indicator, for example, "z" is the name of one column which is hard to understand what is stand for?
 * No unit for rational data
+* Unit did not availabile in dataset, for example temperature refer to Celsius or Farrenheit!
 ### Zoop-temp-main:
 * Missing Data
 * Unstable data: there is a "star" in column "TEMP", row "23" that affects the value of the data.
