@@ -16,9 +16,9 @@
 
 # System Sugestion:
 
-* This organization can use data collection system(DCS) which is computer application system. DCS is work as data collection system that collect structured information which has to be gathered systematically. This organization with using this system can perform data analysis technique too. DCS will check data regarding data validation, documentation for the data and also it is contain full details information about the data. If there is missing data, DCS will make notification or stop the processing in this step.
+* This organization can use data collection system(DCS) for gathering and organizing the data. DCS is work as data collection system that collects structured information systematically. This organization with using this system can perform data analysis technique. DCS will check data regarding data validation, documentation for the data and also it contains full details information about the data. If there is missing data, DCS will make notification or stop the processing in following steps.
  
-*  the tampletetables is represented columns the same as original table but carrying the unit in three different data sets except adding time column which will collect the time for the entry data and so it will be obvious which data is related to night and which one is for morning. and also species column can take care of different species so i deleted the columns titles the name of species.
+* The template table is represented columns the same as the original table but carrying the unit for data in all different data sets. Also, in this template "time" is adding for the purpose of collecting the time for the entry data to show the data related to night and the morning. The species column can take care of different species so I deleted the columns titles the name of species.
 
 
 | Date | Time | Tempeture( F) | Depth(m) | Species | Number OF species(l) | density(mm) | Colony Diameter(ml) | Chlorophyll a | ColonySize(mm) |
