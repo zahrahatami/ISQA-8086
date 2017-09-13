@@ -13,7 +13,9 @@
 
 * macro-statistics-capital-stock-1990-2014
 ## Data Entry Analysis
+* Promlems
+* Suggestions
 ## Data cleaning Documentation
 . License: GNU General Public License v3.0
 
-## Data Entry Analysis
+
