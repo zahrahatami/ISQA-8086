@@ -22,5 +22,5 @@
 * The template table is represented columns the same as the original table but carrying the unit for data in all different data sets. Also, in this template "time" is adding for the purpose of collecting the time for the entry data to show the data related to night and the morning. The species column can take care of different species so I deleted the columns titles the name of species.
 
 
-| Date | Time | Tempeture( F) | Depth(m) | Species | Number OF species(l) | density(mm) | Colony Diameter(ml) | Chlorophyll a | ColonySize(mm) |
-|------|------|---------------|----------|---------|----------------------|-------------|---------------------|---------------|----------------|
+| Date | Time | Tempeture( F) | Depth(m) | Main Species | Number OF species(l) | Species_density(mm) | Colony Diameter(ml) | Chippo_Litter | Cuni_Liter | Chlorophyll a | Chippo ColonySize(mm) | Cuni ColonySize(mm) |
+|------|------|---------------|----------|--------------|----------------------|---------------------|---------------------|---------------|------------|---------------|-----------------------|---------------------|
