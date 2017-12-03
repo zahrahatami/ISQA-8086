@@ -1,3 +1,17 @@
+## Group Members
+1. Praseeda Sasanka
+2. Sowjanya
+3. Zahra Hatami
+
+## Table of Content
+1. Data Information
+2. Data Cleaning Documentation
+3. HTML Documentation
+4. Audience
+5. Summarry
+6. Presentation
+7. Contribution Document
+
 # Data
 The data colleted from center for desieas control prevention (CDC). This data set was collected for the years 2005-2015 Mortality data for U.S. residents come from the National Vital Statistics System. Estimates based on fewer than 10 observed deaths are not shown and shaded yellow on the map.
 Underlying cause of death is based on the International Classification of Diseases, 10th Revision (ICD-10)
@@ -7,22 +21,10 @@ The License details for the Excess Deaths Data Set can be found in License Info
 There are no constraints on this data in regards to the license. This is public data set and can be downloaded by any individual within or outside the organization.
 
 [License Info](https://www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html)
-## Group Members
-1. Praseeda Sasanka
-2. Sowjanya
-3. Zahra Hatami
 
-## Table of Content
-1. Data Cleaning Documentation
-2. HTML Documentation
-3. Audience
-4. Summarry
-5. Presentation
-6. Contribution Document
-
-Data Cleaning:
+## Data Cleaning:
 This data represented the percentage of expected death, observed deaths and potential death in different states in the United States. All data is collected based on five leading causes of death in metropolitan and non-metropolitan areas. Heart disease, Cancer, Unintentional injury, Chronic lower respiratory disease and Stroke are the major causes of death that patients are spending so much money for any treatment for them. The data consists of 20,5921 rows and 13 columns.
-# Metadata
+## Metadata
 This data set was collected for the years 2005-2015
 **Mortality** data for U.S. residents come from the National Vital Statistics System. Estimates based on fewer than 10 observed deaths are not shown and shaded yellow on the map.
 
